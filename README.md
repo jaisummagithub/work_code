@@ -1,4 +1,4 @@
-# work_code — B3 Jira Excel Reconciliation Tool
+# B3 Jira Excel Reconciliation Tool
 
 A Python utility that reconciles a **Jira issue export** against a **master tracking sheet** (the "B3 sheet"), automatically detecting issues that exist in Jira but are missing from the master, and copying them across into a dated output workbook.
 
